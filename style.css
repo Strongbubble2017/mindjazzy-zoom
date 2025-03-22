@@ -193,6 +193,21 @@ form button {
   z-index: 0;
   position: relative;
 }
+.social-links a {
+  background: #DAA520;
+  color: white;
+  padding: 28px;
+  border-radius: 50%;
+  font-size: 32px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+  height: 90px;
+  text-decoration: none;
+  transition: background 0.3s, transform 0.2s;
+}
+
 
 
 
