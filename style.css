@@ -122,10 +122,6 @@ form button {
   transition: background 0.3s, transform 0.2s;
 }
 
-}
-
-}
-
 .social-links a:hover {
   background: #b8860b;
    transform: scale(1.1);
@@ -165,16 +161,18 @@ form button {
 .social-links a {
   background: #DAA520;
   color: white;
-  padding: 15px;
+  padding: 28px; /* nagyobb kör */
   border-radius: 50%;
-  font-size: 24px;
+  font-size: 32px; /* nagyobb ikon */
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 50px;
-  height: 50px;
+  width: 90px; /* nagyobb szélesség */
+  height: 90px; /* nagyobb magasság */
   text-decoration: none;
   transition: background 0.3s, transform 0.2s;
+}
+
 }
 
 .social-links a:hover {
