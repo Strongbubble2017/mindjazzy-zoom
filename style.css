@@ -196,13 +196,13 @@ form button {
 .social-links a {
   background: #DAA520;
   color: white;
-  padding: 28px;
-  border-radius: 50%;
-  font-size: 32px;
+  padding: 50px;
+  border-radius: 70%;
+  font-size: 52px;
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 200px;
+  width: 90px;
   height: 200px;
   text-decoration: none;
   transition: background 0.3s, transform 0.2s;
