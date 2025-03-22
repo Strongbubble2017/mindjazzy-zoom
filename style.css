@@ -108,17 +108,16 @@ form button {
 }
 
 .social-links a {
-  .social-links a {
   background: #DAA520;
   color: white;
-  padding: 28px; /* nagyobb kör */
+  padding: 50px; /* nagyobb kör */
   border-radius: 50%;
-  font-size: 32px; /* nagyobb ikon */
+  font-size: 50px; /* nagyobb ikon */
   display: inline-flex;
   align-items: center;
   justify-content: center;
   width: 90px; /* nagyobb szélesség */
-  height: 90px; /* nagyobb magasság */
+  height: 180px; /* nagyobb magasság */
   text-decoration: none;
   transition: background 0.3s, transform 0.2s;
 }
