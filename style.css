@@ -172,14 +172,7 @@ form button {
   background: #b8860b;
   transform: scale(1.1);
 }
-.features,
-.hero,
-#footer-social {
-  border: none !important;
-  box-shadow: none !important;
-  margin: 0 !important;
-  padding: 0 !important;
-}
+
 
 
 
