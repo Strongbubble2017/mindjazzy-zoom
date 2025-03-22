@@ -202,7 +202,7 @@ form button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 90px;
+  width: 150px;
   height: 200px;
   text-decoration: none;
   transition: background 0.3s, transform 0.2s;
