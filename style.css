@@ -178,6 +178,19 @@ form button {
   transform: scale(1.1);
 }
 
+#footer-social {
+  background: #f5deb3;
+  padding: 40px 20px;
+  text-align: center;
+  margin-top: 0;
+  border-top: none;
+  position: relative;
+  z-index: 1;
+}
+.hero {
+  z-index: 0;
+  position: relative;
+}
 
 
 
