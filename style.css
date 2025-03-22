@@ -108,18 +108,21 @@ form button {
 }
 
 .social-links a {
+  .social-links a {
   background: #DAA520;
   color: white;
-  padding: 20px; /* Növelt padding */
+  padding: 28px; /* nagyobb kör */
   border-radius: 50%;
-  font-size: 28px; /* Kicsit nagyobb ikon, hogy arányos legyen */
+  font-size: 32px; /* nagyobb ikon */
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  width: 70px; /* Növelt méret */
-  height: 70px; /* Növelt méret */
+  width: 90px; /* nagyobb szélesség */
+  height: 90px; /* nagyobb magasság */
   text-decoration: none;
   transition: background 0.3s, transform 0.2s;
+}
+
 }
 
 }
