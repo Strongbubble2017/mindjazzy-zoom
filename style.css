@@ -134,9 +134,11 @@ form button {
   background: #f5deb3; /* világos barna */
   padding: 40px 20px;
   text-align: center;
-  margin-top: 60px;
-  border-top: 2px solid #d2b48c;
+  margin-top: 0; /* biztos ami biztos */
+  border-top: none; /* Eltávolítjuk a csíkot */
+  border-bottom: none; /* Ha alul is lenne */
 }
+
 
 #footer-social h2 {
   font-size: 24px;
