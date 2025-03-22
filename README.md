@@ -8,27 +8,29 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
   <style>
     body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background: #f9f9f9;
-      color: #333;
-    }
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f9f9f9;
+  color: #1a1a1a;
+}
 
-    .hero {
-      background: #f9f9f9;
-      color: #1a1a1a;
-      padding: 60px 20px;
-      text-align: center;
-    }
+.hero {
+  background: #f9f9f9;
+  color: #1a1a1a;
+  padding: 60px 20px;
+  text-align: center;
+}
 
-    .meeting-text {
-      font-size: 28px;
-      margin-top: 40px;
-      margin-bottom: 10px;
-      font-weight: bold;
-      text-align: center;
-      color: #3b2f2f;
+.meeting-text {
+  font-size: 28px;
+  margin-top: 40px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  text-align: center;
+  color: #3b2f2f;
+}
+
     }
 
     .hero-image {
