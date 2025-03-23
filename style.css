@@ -48,7 +48,7 @@ body {
   background: ##3b2f2f;
   padding: 40px 60px; /* nagyobb belső tér, nagyobb doboz */
   border-radius: 16px;
-  margin: 60px auto 0;
+  margin: 20px auto 0;
   text-align: center;
   width: fit-content;
   animation: fadeInUp 1s ease-out;
