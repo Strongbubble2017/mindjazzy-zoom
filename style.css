@@ -260,6 +260,15 @@ form button {
   margin: 0 10px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
+  .footer-logo {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin: 0 10px;
+  display: inline-block;
+}
+
 
 
 
