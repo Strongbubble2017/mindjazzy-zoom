@@ -106,6 +106,19 @@ body {
   background: #e1c876;
   transform: scale(1.1);
 }
+.footer-logo img {
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  object-fit: cover;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s;
+}
+
+.footer-logo img:hover {
+  transform: scale(1.1);
+}
+
 
 
 
