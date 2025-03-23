@@ -33,12 +33,13 @@ body {
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 .hero-text {
-  font-family: 'Lobster', cursive; !important;
+  font-family: 'Lobster', cursive !important;
   font-size: 70px;
   color: #3b2f2f;
   text-align: center;
   margin-top: 40px;
 }
+
 
 
 
