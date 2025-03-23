@@ -252,13 +252,8 @@ form button {
 }
 
 .footer-logo {
-  height: 40px;
-  width: auto;
-  margin: 0 20px;
-}
-.footer-logo {
-  height: 50px;
-  width: 50px;
+  height: 30px;
+  width: 30px;
   border-radius: 50%;
   object-fit: cover;
   display: inline-block;
