@@ -68,6 +68,16 @@ body {
     transform: translateY(0);
   }
 }
+.site-footer {
+  background-color: #3b2f2f; /* ugyanaz a barna, mint a szövegszín */
+  color: #f7e7a9;            /* világos arany szöveg */
+  text-align: center;
+  padding: 30px 20px;
+  margin-top: 60px;
+  font-size: 18px;
+  font-family: 'Arial', sans-serif;
+}
+
 
 
 
