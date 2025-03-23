@@ -256,6 +256,15 @@ form button {
   width: auto;
   margin: 0 20px;
 }
+.footer-logo {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: inline-block;
+  margin: 0 10px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
 
 
 
