@@ -207,6 +207,36 @@ form button {
   text-decoration: none;
   transition: background 0.3s, transform 0.2s;
 }
+@media (max-width: 768px) {
+  .hero {
+    padding: 40px 10px;
+  }
+
+  .meeting-text {
+    font-size: 28px;
+  }
+
+  .countdown-timer {
+    font-size: 36px;
+  }
+
+  .social-links {
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+
+  .social-links a {
+    width: 60px;
+    height: 60px;
+    padding: 15px;
+    font-size: 24px;
+  }
+
+  #footer-social {
+    padding: 30px 10px;
+  }
+}
+
 
 
 
