@@ -21,8 +21,8 @@ body {
   font-family: 'Lobster', cursive;
   font-size: 64px;            /* nagyobb méret */
   color: #3b2f2f;
-  margin-top: 0;
-  margin-bottom: 40px;        /* tér a kép előtt */
+  margin-top: 40;
+  margin-bottom: 0px;        /* tér a kép előtt */
 }
 
 .hero-image {
