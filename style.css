@@ -40,6 +40,16 @@ body {
   text-align: center;
   margin-top: 40px;
 }
+/*ÓRA */
+.countdown-timer {
+  font-size: 48px;
+  font-weight: bold;
+  color: #3b2f2f;
+  margin-top: 30px;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
 
 
 
