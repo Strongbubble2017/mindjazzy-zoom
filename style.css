@@ -7,12 +7,12 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: red; /* teljes háttér piros */
+  background: #f7e7a9; /* teljes háttér piros */
   color: #333;
 }
 
 .hero {
-  background: red;
+  background: #f7e7a9;
   color: white;
   padding: 60px 20px;
   text-align: center;
