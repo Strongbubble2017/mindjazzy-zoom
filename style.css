@@ -237,34 +237,11 @@ form button {
   }
 .social-links .footer-logo {
   height: 4px;
-  width: auto;
+  width: 4px;
   object-fit: contain;
   margin-right: 15px;
   display: inline-block;
 }
-  #footer-social .footer-logo {
-  height: 4px;
-  width: auto;
-  object-fit: contain;
-  margin-right: 15px;
-  display: inline-block;
-}
-  #footer-social .footer-logo {
-  height: 40px !important;
-  width: auto !important;
-  object-fit: contain;
-  display: inline-block;
-  margin-right: 15px;
-  border: 2px solid red; /* csak ideiglenesen, hogy lásd a méretet */
-}
-  .footer-logo {
-  height: 20px !important;
-  width: auto !important;
-  object-fit: contain;
-  margin-right: 15px;
-  display: inline-block;
-}
-
 
 
 
