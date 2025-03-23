@@ -235,13 +235,12 @@ form button {
   #footer-social {
     padding: 30px 10px;
   }
-.footer-logo {
-  height: 40px;           /* Próbálj ezzel, ez jól látható és nem túl nagy */
-  width: auto;            /* Automatikusan megtartja a képarányt */
-  max-width: 100%;        /* Ne nőjön túl a konténeren */
-  display: inline-block;  /* Biztonságos megjelenítés */
-  object-fit: contain;    /* Normál méretmegjelenítés */
+.social-links .footer-logo {
+  height: 40px;
+  width: auto;
+  object-fit: contain;
   margin-right: 15px;
+  display: inline-block;
 }
 
 
