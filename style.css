@@ -249,6 +249,15 @@ form button {
   margin-right: 15px;
   display: inline-block;
 }
+  #footer-social .footer-logo {
+  height: 40px !important;
+  width: auto !important;
+  object-fit: contain;
+  display: inline-block;
+  margin-right: 15px;
+  border: 2px solid red; /* csak ideiglenesen, hogy lásd a méretet */
+}
+
 
 
 
