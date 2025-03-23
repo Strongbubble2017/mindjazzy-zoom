@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-
+/* HÁTÉR */
 body {
   font-family: Arial, sans-serif;
   background: #f7e7a9;
@@ -16,7 +16,7 @@ body {
   text-align: center;
   margin-top: 0;
 }
-
+/* CÍM */
 .hero h1 {
   font-family: 'Lobster', cursive;
   font-size: 120px;            /* nagyobb méret */
@@ -25,13 +25,14 @@ body {
   margin: 0;
   padding-bottom: 40px;     /* tér a kép előtt */
 }
-
+/*KÉP */
 .hero-image {
   max-width: 100%;
   height: auto;
   border-radius: 12px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
+/* KÖVETKEZŐ ZOOM... */
 .hero-text {
   font-family: 'Lobster', cursive !important;
   font-size: 70px;
