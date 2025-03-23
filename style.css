@@ -257,6 +257,14 @@ form button {
   margin-right: 15px;
   border: 2px solid red; /* csak ideiglenesen, hogy lásd a méretet */
 }
+  .footer-logo {
+  height: 20px !important;
+  width: auto !important;
+  object-fit: contain;
+  margin-right: 15px;
+  display: inline-block;
+}
+
 
 
 
