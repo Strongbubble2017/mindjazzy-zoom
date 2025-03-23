@@ -17,6 +17,13 @@ body {
   padding: 60px 20px;
   text-align: center;
 }
+.hero h1 {
+  font-family: 'Lobster', cursive;
+  font-size: 56px;
+  color: #3b2f2f;
+  text-align: center;
+}
+
 
 .cta, .countdown-timer {
   background: linear-gradient(135deg, #f6e27f, #e6c200);
