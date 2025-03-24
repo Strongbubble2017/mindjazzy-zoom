@@ -79,11 +79,12 @@ body {
 }
 .social-icons {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap;
-  max-width: 400px;
-  margin: 0 auto 20px;
   gap: 40px;
+  max-width: 600px; /* nagyobb helyet adunk nekik */
+  margin: 0 auto 20px;
+
 }
 
 
